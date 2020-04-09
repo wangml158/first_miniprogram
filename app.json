@@ -2,6 +2,7 @@
   "pages": [
     "pages/index/index",
     "pages/logs/logs",
+    "pages/cart/cart",
     "pages/My/My"
   ],
   "window": {
@@ -19,6 +20,10 @@
       {
         "pagePath": "pages/logs/logs",
         "text": "日志"
+      },
+      {
+        "pagePath": "pages/cart/cart",
+        "text": "购物车"
       },
       {
         "pagePath": "pages/My/My",
